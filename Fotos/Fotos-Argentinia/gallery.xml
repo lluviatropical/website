@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title id="title">Fotos-Argentinia</title>
+</head>
+<body id="gallery" bgcolor="#333333" alink="#ffffff" border="10">
+	<img src="01s.jpg" lowsrc="01s_t.jpg" />
+	<img src="02s.jpg" lowsrc="02s_t.jpg" />
+	<img src="03s.jpg" lowsrc="03s_t.jpg" />
+	<img src="04s.JPG" lowsrc="04s_t.JPG" />
+	<img src="05s.jpg" lowsrc="05s_t.jpg" />
+	<img src="06s.JPG" lowsrc="06s_t.JPG" />
+	<img src="07s.jpg" lowsrc="07s_t.jpg" />
+	<img src="08s.JPG" lowsrc="08s_t.JPG" />
+	<img src="09s.JPG" lowsrc="09s_t.JPG" />
+	<img src="10s.jpg" lowsrc="10s_t.jpg" />
+	<img src="11s.jpg" lowsrc="11s_t.jpg" />
+	<img src="12s.jpg" lowsrc="12s_t.jpg" />
+</body>
+</html>

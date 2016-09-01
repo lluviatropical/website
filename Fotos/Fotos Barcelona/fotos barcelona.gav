@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title id="title">Fotos Barcelona</title>
+</head>
+<body id="gallery" bgcolor="#333333" alink="#ffffff" border="10">
+	<img src="01ss.jpg" lowsrc="01ss_t.jpg" />
+	<img src="02ss.jpg" lowsrc="02ss_t.jpg" />
+	<img src="03ss.jpg" lowsrc="03ss_t.jpg" />
+	<img src="04ss.jpg" lowsrc="04ss_t.jpg" />
+	<img src="05ss.jpg" lowsrc="05ss_t.jpg" />
+	<img src="06ss.JPG" lowsrc="06ss_t.JPG" />
+	<img src="07ss.JPG" lowsrc="07ss_t.JPG" />
+	<img src="08ss.jpg" lowsrc="08ss_t.jpg" />
+	<img src="09ss.JPG" lowsrc="09ss_t.JPG" />
+	<img src="10ss.JPG" lowsrc="10ss_t.JPG" />
+	<img src="11ss.jpg" lowsrc="11ss_t.jpg" />
+	<img src="12ss.jpg" lowsrc="12ss_t.jpg" />
+	<img src="dfrs.jpg" lowsrc="dfrs_t.jpg" />
+	<img src="ghjs.jpg" lowsrc="ghjs_t.jpg" />
+	<img src="gt_20_281_29s.jpg" lowsrc="gt_20_281_29s_t.jpg" />
+	<img src="gt_20_282_29s.jpg" lowsrc="gt_20_282_29s_t.jpg" />
+	<img src="gt_20_283_29s.jpg" lowsrc="gt_20_283_29s_t.jpg" />
+	<img src="gt_20_284_29s.jpg" lowsrc="gt_20_284_29s_t.jpg" />
+	<img src="gt_20_285_29s.jpg" lowsrc="gt_20_285_29s_t.jpg" />
+	<img src="gt_20_286_29s.jpg" lowsrc="gt_20_286_29s_t.jpg" />
+	<img src="gt_20_287_29s.jpg" lowsrc="gt_20_287_29s_t.jpg" />
+	<img src="gt_20_288_29s.jpg" lowsrc="gt_20_288_29s_t.jpg" />
+	<img src="gts.jpg" lowsrc="gts_t.jpg" />
+	<img src="hgts.jpg" lowsrc="hgts_t.jpg" />
+</body>
+</html>

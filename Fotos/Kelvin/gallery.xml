@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title id="title">Kelvin</title>
+</head>
+<body id="gallery" bgcolor="#333333" alink="#ffffff" border="10">
+	<img src="01s.JPG" lowsrc="01s_t.JPG" />
+	<img src="02s.JPG" lowsrc="02s_t.JPG" />
+	<img src="03s.JPG" lowsrc="03s_t.JPG" />
+	<img src="04s.JPG" lowsrc="04s_t.JPG" />
+	<img src="05s.JPG" lowsrc="05s_t.JPG" />
+	<img src="06s.JPG" lowsrc="06s_t.JPG" />
+	<img src="07s.jpg" lowsrc="07s_t.jpg" />
+	<img src="08s.JPG" lowsrc="08s_t.JPG" />
+	<img src="09s.JPG" lowsrc="09s_t.JPG" />
+	<img src="10s.JPG" lowsrc="10s_t.JPG" />
+	<img src="11s.JPG" lowsrc="11s_t.JPG" />
+	<img src="12s.JPG" lowsrc="12s_t.JPG" />
+</body>
+</html>
